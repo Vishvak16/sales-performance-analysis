@@ -1,0 +1,11 @@
+product_name,category,sub_category,times_ordered,total_revenue,total_profit,avg_discount_pct
+Canon imageCLASS 2200 Advanced Copier,Technology,Copiers,5,61600.0,25199.94,12.0
+"Cisco Smart Phone, Full Size",Technology,Phones,38,76441.0,17238.52,5.45
+"Motorola Smart Phone, Full Size",Technology,Phones,38,73159.0,17027.14,14.76
+"Hoover Stove, Red",Office Supplies,Appliances,15,31664.0,11807.96,6.67
+"Sauder Classic Bookcase, Traditional",Furniture,Bookcases,29,39110.0,10672.06,11.9
+"Harbour Creations Executive Leather Armchair, Adjustable",Furniture,Chairs,39,50120.0,10427.33,17.9
+"Nokia Smart Phone, Full Size",Technology,Phones,47,71904.0,9938.16,14.45
+"Cisco Smart Phone, with Caller ID",Technology,Phones,27,43124.0,9786.65,14.7
+"Nokia Smart Phone, with Caller ID",Technology,Phones,24,47880.0,9465.34,14.75
+"Belkin Router, USB",Technology,Accessories,32,23473.0,8955.01,9.69

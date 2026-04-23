@@ -1,0 +1,6 @@
+discount_bucket,total_orders,total_revenue,total_profit,avg_profit_per_order
+1-10% Low,4679,1962633.0,339767.77,72.62
+0% No Discount,29009,6992734.0,1770695.55,61.04
+11-20% Medium,6274,1757296.0,173256.04,27.61
+21-40% High,4367,1083907.0,-187271.14,-42.88
+40%+ Very High,6961,846335.0,-627414.13,-90.13

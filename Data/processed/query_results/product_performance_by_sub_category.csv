@@ -1,0 +1,18 @@
+category,sub_category,total_orders,total_revenue,total_profit,avg_discount_pct,profit_margin_pct
+Furniture,Tables,861,757034.0,-64083.55,29.07,-8.47
+Office Supplies,Fasteners,2420,83254.0,11525.25,14.06,13.84
+Office Supplies,Labels,2606,73433.0,15010.35,12.04,20.44
+Office Supplies,Supplies,2425,243090.0,22583.13,12.79,9.29
+Office Supplies,Envelopes,2435,170926.0,29600.85,13.17,17.32
+Furniture,Furnishings,3170,385609.0,46967.55,15.11,12.18
+Office Supplies,Art,4883,372163.0,57953.92,11.74,15.57
+Technology,Machines,1486,779071.0,58867.7,16.96,7.56
+Office Supplies,Paper,3538,244307.0,59207.25,10.95,24.23
+Office Supplies,Binders,6152,461952.0,72449.6,17.92,15.68
+Office Supplies,Storage,5059,1127124.0,108461.74,13.85,9.62
+Technology,Accessories,3075,749307.0,129626.44,12.05,17.3
+Office Supplies,Appliances,1755,1011081.0,141680.65,14.17,14.01
+Furniture,Chairs,3434,1501682.0,141973.78,16.31,9.45
+Furniture,Bookcases,2411,1466559.0,161924.32,15.38,11.04
+Technology,Phones,3357,1706874.0,216717.49,14.58,12.7
+Technology,Copiers,2223,1509439.0,258567.62,11.71,17.13
